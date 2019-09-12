@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             var count = 0;
-            while (count <1000 )
+            while (count <450 )
             {
                 Console.WriteLine($"numero:{count}");
                 count++; 
